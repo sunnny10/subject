@@ -4,7 +4,7 @@
 
 ### Github 기본 사용 방법
 
-<iframe width="949" height="534" src="https://www.youtube.com/embed/8tC7smvmBXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="549" height="134" src="https://www.youtube.com/embed/8tC7smvmBXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 관련 개념
 
